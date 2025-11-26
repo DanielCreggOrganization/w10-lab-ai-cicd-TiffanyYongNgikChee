@@ -201,7 +201,7 @@ We will create a workflow that uses an LLM to automatically categorise new Issue
 
 ### Step 1: The "Triage" Workflow
 
-1.  Open **Copilot Edits / Agent Mode** (`Ctrl+Shift+I`).
+1.  Open **Copilot Chat / Agent Mode**.
 
 2.  Enter the prompt:
 
